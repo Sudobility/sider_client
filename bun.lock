@@ -5,8 +5,8 @@
     "": {
       "name": "@sudobility/sider_client",
       "devDependencies": {
-        "@sudobility/sider_types": "^0.0.16",
-        "@sudobility/types": "^1.9.68",
+        "@sudobility/sider_types": "^0.0.17",
+        "@sudobility/types": "^1.9.74",
         "@tanstack/react-query": "^5.62.7",
         "@types/bun": "^1.2.23",
         "@types/react": "^18.3.12",
@@ -14,17 +14,17 @@
         "typescript": "^5.9.3",
       },
       "peerDependencies": {
-        "@sudobility/sider_types": "^0.0.16",
-        "@sudobility/types": "^1.9.68",
+        "@sudobility/sider_types": "^0.0.17",
+        "@sudobility/types": "^1.9.74",
         "@tanstack/react-query": "^5",
         "react": "^18 || ^19",
       },
     },
   },
   "packages": {
-    "@sudobility/sider_types": ["@sudobility/sider_types@0.0.16", "", {}, "sha512-l5XtZ5WI1SE8WK5bcjZB6PbIWMqY9WcAzBB8PgASag/54nOVP2V2E+brUmHnUMlW4WsrpJNjfPAzUpySA67EFQ=="],
+    "@sudobility/sider_types": ["@sudobility/sider_types@0.0.17", "https://npm.pkg.github.com/download/@sudobility/sider_types/0.0.17/a30f99f4c123b5ee656d3ecddad58a6209cf1694", {}, "sha512-XDPQ2i98zj1+W+AUWryNpzjOKqYuTbK8b3pOavW9YpBfekXZA0iKzSt4bg2pB4sPI+xZEoRS9zhJCk37rgo8rg=="],
 
-    "@sudobility/types": ["@sudobility/types@1.9.68", "", {}, "sha512-4LL5+UfcqQcc0PKKR/z/PqS6j9DQPVkkjL+3oOW+Bwx0TAu1SVKAlPhlt/9ruNMW+abcHuZoFvbOVD5gdYBSGw=="],
+    "@sudobility/types": ["@sudobility/types@1.9.74", "https://npm.pkg.github.com/download/@sudobility/types/1.9.74/f9ad864ba5d8d1097e7e48378ebee8aa7e129e88", {}, "sha512-jgt0F1r71qjFNiRNn/1YlL4JU65sjnzYd8Sfi+Y9z62Lu9VhIXeqWAH12u7/hmGPZqG3nxzn0V+s3sFkB1qWuQ=="],
 
     "@tanstack/query-core": ["@tanstack/query-core@5.101.4", "", {}, "sha512-gNwcvOJcRbLWPOLG/2OBm+zM+Yv+MKsXKEOWC57USuZDEsI71hEErQsiEGx5wX9rzWWkfwM0fVSPoiIFSsxfiw=="],
 
